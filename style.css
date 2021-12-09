@@ -1,3 +1,6 @@
-p {
-    writing-mode: vertical-lr;
+.image img {
+    background-position: center;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
